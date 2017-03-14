@@ -1,0 +1,19 @@
+pairs:
+  # <initials>: <Firstname> <Lastname>[; <email-id>]
+  in: Indranil Nanda; indranil.nanda@dish.com
+  jl: John lander; john.lander@dish.com
+  xh: Xin He; xin.he@dish.com
+  dc: Danny Carrasco; danny.carrasco@dish.com
+  ak: Aravind Kuppala; aravind.kuppala@dish.com
+  pt: Preethi Tatineni; preethi.tatineni@dish.com
+  an: Ashish Negi; ashish1.negi@dish.com
+  ps: Pradeep Singh; pradeep.singh@dish.com
+  marie: Marie Rex; marie.rex@dish.com
+  mr: Mahesh Reddy; mahesh.reddy@dish.com
+  av: Ankit Verma; ankit.verma@dish.com
+  pk: Pawan Kumar; pawan.kumar@dish.com
+  kv: Kamna Varsaney; kamna.varsaney@dish.com 
+  ma: Mozammil Amir; mozammil.amir@dish.com
+email:
+  prefix: pair
+  domain: dish.com
